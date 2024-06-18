@@ -26,7 +26,7 @@
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=5C2D91&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=2C2255);
+![Eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=2C2255)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
